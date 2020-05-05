@@ -1,0 +1,7 @@
+{
+  "name": "Stock Taking App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
